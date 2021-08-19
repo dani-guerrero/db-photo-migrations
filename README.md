@@ -153,7 +153,7 @@ Otherwise (locally installed):
 ```
 <hr >
 
-### (not recommended, just in case) 
+### (DON'T DO THIS!!!!!) 
 ### Deploy all migrations 
 ```sh
 ./db-migrate.sh up
