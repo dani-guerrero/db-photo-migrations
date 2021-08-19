@@ -1,0 +1,13 @@
+{
+    "defaultEnv": "prod",
+    "prod": {
+        "driver": "pg",
+        "user" : "tigadata_user",
+        "password" : "123456",
+        "host" : "127.0.0.1",
+        "database" : "tigadata",
+        "port" : "5432",
+        "_commented": "ssl : true",
+        "schema" : "public"
+    }
+}

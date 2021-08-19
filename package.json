@@ -1,0 +1,23 @@
+{
+  "name": "db-migrations",
+  "version": "1.0.0",
+  "description": "db-migrations for tigaserver (photos)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dani-guerrero/db-photo-migrations.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dani-guerrero/db-photo-migrations/issues"
+  },
+  "homepage": "https://github.com/dani-guerrero/db-photo-migrations#readme",
+  "dependencies": {
+    "db-migrate": "^0.11.12",
+    "db-migrate-pg": "^1.2.2"
+  }
+}
