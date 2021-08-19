@@ -27,7 +27,7 @@
   <h3 align="center">db-photo-migrations</h3>
 
   <p align="center">
-    A tool to remove duplicate photos in tigaserver
+    A tool to ensure database-filesystem consistency and nonredundancy of photos in tigaserver
     <br />
 </p>
 
